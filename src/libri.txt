@@ -1,0 +1,101 @@
+[
+Autore='Ms. Risa Wisozk', genere='Western', ISBN=11917, titolo='Time To Murder And Create', annoDiPubblicazione=2019, numeroPagine=72
+, 
+Autore='Joel Bayer MD', genere='Humor', ISBN=19141, titolo='The Last Enemy', annoDiPubblicazione=2004, numeroPagine=82
+, 
+Autore='Ms. Risa Wisozk', genere='Fiction in verse', ISBN=3613, titolo='Surprised by Joy', annoDiPubblicazione=2020, numeroPagine=45
+, 
+Autore='Kayla Graham', genere='Western', ISBN=16846, titolo='Recalled to Life', annoDiPubblicazione=2007, numeroPagine=24
+, 
+Autore='Ms. Risa Wisozk', genere='Western', ISBN=2208, titolo='Dulce et Decorum Est', annoDiPubblicazione=2011, numeroPagine=59
+, 
+Autore='Joel Bayer MD', genere='Fiction in verse', ISBN=2408, titolo='The Way of All Flesh', annoDiPubblicazione=2010, numeroPagine=40
+, 
+Autore='Ms. Risa Wisozk', genere='Humor', ISBN=10748, titolo='No Highway', annoDiPubblicazione=2020, numeroPagine=89
+, 
+Autore='Ms. Risa Wisozk', genere='Fiction in verse', ISBN=4500, titolo='If Not Now, When?', annoDiPubblicazione=2007, numeroPagine=88
+, 
+Autore='Joel Bayer MD', genere='Humor', ISBN=175, titolo='The Glory and the Dream', annoDiPubblicazione=2003, numeroPagine=24
+, 
+Autore='Kayla Graham', genere='Fiction in verse', ISBN=15712, titolo='I Sing the Body Electric', annoDiPubblicazione=2012, numeroPagine=6
+, 
+Autore='Tracey Will', genere='Western', ISBN=16198, titolo='The Curious Incident of the Dog in the Night-Time', annoDiPubblicazione=2023, numeroPagine=69
+, 
+Autore='Joel Bayer MD', genere='Humor', ISBN=7252, titolo='The Doors of Perception', annoDiPubblicazione=2022, numeroPagine=58
+, 
+Autore='Tracey Will', genere='Humor', ISBN=11576, titolo='From Here to Eternity', annoDiPubblicazione=2005, numeroPagine=69
+, 
+Autore='Kayla Graham', genere='Humor', ISBN=470, titolo='Have His Carcase', annoDiPubblicazione=2005, numeroPagine=25
+, 
+Autore='Tracey Will', genere='Western', ISBN=8022, titolo='I Sing the Body Electric', annoDiPubblicazione=2022, numeroPagine=98
+, 
+Autore='Joel Bayer MD', genere='Western', ISBN=13177, titolo='A Scanner Darkly', annoDiPubblicazione=2016, numeroPagine=80
+, 
+Autore='Tracey Will', genere='Humor', ISBN=8673, titolo='Shall not Perish', annoDiPubblicazione=2004, numeroPagine=69
+, 
+Autore='Kayla Graham', genere='Western', ISBN=5178, titolo='As I Lay Dying', annoDiPubblicazione=2004, numeroPagine=18
+, 
+Autore='Kayla Graham', genere='Fiction in verse', ISBN=17732, titolo='An Instant In The Wind', annoDiPubblicazione=2009, numeroPagine=61
+, 
+Autore='Kayla Graham', genere='Fiction in verse', ISBN=19192, titolo='Antic Hay', annoDiPubblicazione=2007, numeroPagine=1
+, 
+Autore='Tracey Will', genere='Humor', ISBN=3211, titolo='A Catskill Eagle', annoDiPubblicazione=2019, numeroPagine=3
+, 
+Autore='Kayla Graham', genere='Western', ISBN=6995, titolo='The Sun Also Rises', annoDiPubblicazione=2015, numeroPagine=69
+, 
+Autore='Kayla Graham', genere='Western', ISBN=2352, titolo='Blood's a Rover', annoDiPubblicazione=2022, numeroPagine=78
+, 
+Autore='Joel Bayer MD', genere='Fiction in verse', ISBN=533, titolo='Such, Such Were the Joys', annoDiPubblicazione=2004, numeroPagine=36
+, 
+Autore='Tracey Will', genere='Humor', ISBN=19282, titolo='Absalom, Absalom!', annoDiPubblicazione=2019, numeroPagine=45
+, 
+Autore='Kayla Graham', genere='Humor', ISBN=10249, titolo='Time To Murder And Create', annoDiPubblicazione=2006, numeroPagine=90
+, 
+Autore='Ms. Risa Wisozk', genere='Western', ISBN=14407, titolo='The Line of Beauty', annoDiPubblicazione=2017, numeroPagine=45
+, 
+Autore='Tracey Will', genere='Humor', ISBN=5550, titolo='The Moon by Night', annoDiPubblicazione=2010, numeroPagine=70
+, 
+Autore='Ms. Risa Wisozk', genere='Western', ISBN=1802, titolo='The Curious Incident of the Dog in the Night-Time', annoDiPubblicazione=2000, numeroPagine=56
+, 
+Autore='Joel Bayer MD', genere='Western', ISBN=16519, titolo='Noli Me Tangere', annoDiPubblicazione=2019, numeroPagine=54
+, 
+Autore='Ms. Risa Wisozk', genere='Fiction in verse', ISBN=16666, titolo='Frequent Hearses', annoDiPubblicazione=2014, numeroPagine=28
+, 
+Autore='Ms. Risa Wisozk', genere='Humor', ISBN=16362, titolo='Great Work of Time', annoDiPubblicazione=2002, numeroPagine=6
+, 
+Autore='Kayla Graham', genere='Humor', ISBN=15660, titolo='Number the Stars', annoDiPubblicazione=2001, numeroPagine=25
+, 
+Autore='Kayla Graham', genere='Humor', ISBN=19567, titolo='The Heart Is Deceitful Above All Things', annoDiPubblicazione=2021, numeroPagine=53
+, 
+Autore='Kayla Graham', genere='Western', ISBN=11621, titolo='Time To Murder And Create', annoDiPubblicazione=2016, numeroPagine=60
+, 
+Autore='Joel Bayer MD', genere='Fiction in verse', ISBN=5886, titolo='The Torment of Others', annoDiPubblicazione=2009, numeroPagine=77
+, 
+Autore='Tracey Will', genere='Western', ISBN=10906, titolo='Noli Me Tangere', annoDiPubblicazione=2011, numeroPagine=23
+, 
+Autore='Ms. Risa Wisozk', genere='Fiction in verse', ISBN=6337, titolo='Recalled to Life', annoDiPubblicazione=2013, numeroPagine=49
+, 
+Autore='Joel Bayer MD', genere='Western', ISBN=11934, titolo='Tirra Lirra by the River', annoDiPubblicazione=2021, numeroPagine=41
+, 
+Autore='Kayla Graham', genere='Humor', ISBN=18764, titolo='An Instant In The Wind', annoDiPubblicazione=2014, numeroPagine=13
+, 
+Autore='Joel Bayer MD', genere='Humor', ISBN=18745, titolo='The Soldier's Art', annoDiPubblicazione=2017, numeroPagine=31
+, 
+Autore='Tracey Will', genere='Western', ISBN=15510, titolo='To Your Scattered Bodies Go', annoDiPubblicazione=2009, numeroPagine=63
+, 
+Autore='Kayla Graham', genere='Fiction in verse', ISBN=986, titolo='Number the Stars', annoDiPubblicazione=2007, numeroPagine=19
+, 
+Autore='Kayla Graham', genere='Humor', ISBN=3549, titolo='Rosemary Sutcliff', annoDiPubblicazione=2000, numeroPagine=31
+, 
+Autore='Joel Bayer MD', genere='Western', ISBN=2414, titolo='Down to a Sunless Sea', annoDiPubblicazione=2017, numeroPagine=11
+, 
+Autore='Kayla Graham', genere='Fiction in verse', ISBN=13886, titolo='The Green Bay Tree', annoDiPubblicazione=2021, numeroPagine=75
+, 
+Autore='Tracey Will', genere='Western', ISBN=7803, titolo='The Heart Is a Lonely Hunter', annoDiPubblicazione=2018, numeroPagine=99
+, 
+Autore='Tracey Will', genere='Fiction in verse', ISBN=18923, titolo='Recalled to Life', annoDiPubblicazione=2005, numeroPagine=99
+, 
+Autore='Tracey Will', genere='Western', ISBN=14304, titolo='A Handful of Dust', annoDiPubblicazione=2021, numeroPagine=64
+, 
+Autore='Kayla Graham', genere='Fiction in verse', ISBN=13967, titolo='The Torment of Others', annoDiPubblicazione=2016, numeroPagine=71
+]

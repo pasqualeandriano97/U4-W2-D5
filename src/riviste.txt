@@ -1,0 +1,101 @@
+[
+Periodicita=SEMESTRALE, ISBN=14893, titolo='The Heart Is Deceitful Above All Things', annoDiPubblicazione=2005, numeroPagine=54
+, 
+Periodicita=MENSILE, ISBN=16220, titolo='The Painted Veil', annoDiPubblicazione=2016, numeroPagine=9
+, 
+Periodicita=SEMESTRALE, ISBN=10654, titolo='A Time of Gifts', annoDiPubblicazione=2015, numeroPagine=73
+, 
+Periodicita=MENSILE, ISBN=18659, titolo='Look Homeward, Angel', annoDiPubblicazione=2021, numeroPagine=29
+, 
+Periodicita=SEMESTRALE, ISBN=15411, titolo='Antic Hay', annoDiPubblicazione=2018, numeroPagine=33
+, 
+Periodicita=SEMESTRALE, ISBN=6816, titolo='Behold the Man', annoDiPubblicazione=2022, numeroPagine=70
+, 
+Periodicita=MENSILE, ISBN=5967, titolo='Fair Stood the Wind for France', annoDiPubblicazione=2012, numeroPagine=25
+, 
+Periodicita=SETTIMANALE, ISBN=17894, titolo='Cabbages and Kings', annoDiPubblicazione=2020, numeroPagine=99
+, 
+Periodicita=SEMESTRALE, ISBN=19889, titolo='The Millstone', annoDiPubblicazione=2021, numeroPagine=21
+, 
+Periodicita=SEMESTRALE, ISBN=12300, titolo='To Sail Beyond the Sunset', annoDiPubblicazione=2005, numeroPagine=22
+, 
+Periodicita=SETTIMANALE, ISBN=19219, titolo='In Death Ground', annoDiPubblicazione=2014, numeroPagine=11
+, 
+Periodicita=MENSILE, ISBN=4008, titolo='Endless Night', annoDiPubblicazione=2016, numeroPagine=33
+, 
+Periodicita=MENSILE, ISBN=19511, titolo='Far From the Madding Crowd', annoDiPubblicazione=2013, numeroPagine=85
+, 
+Periodicita=SETTIMANALE, ISBN=675, titolo='A Monstrous Regiment of Women', annoDiPubblicazione=2020, numeroPagine=81
+, 
+Periodicita=MENSILE, ISBN=17272, titolo='Things Fall Apart', annoDiPubblicazione=2005, numeroPagine=79
+, 
+Periodicita=SEMESTRALE, ISBN=13599, titolo='What's Become of Waring', annoDiPubblicazione=2022, numeroPagine=14
+, 
+Periodicita=SETTIMANALE, ISBN=7248, titolo='This Side of Paradise', annoDiPubblicazione=2016, numeroPagine=40
+, 
+Periodicita=SEMESTRALE, ISBN=992, titolo='Absalom, Absalom!', annoDiPubblicazione=2009, numeroPagine=98
+, 
+Periodicita=SETTIMANALE, ISBN=8076, titolo='Postern of Fate', annoDiPubblicazione=2014, numeroPagine=76
+, 
+Periodicita=SEMESTRALE, ISBN=3651, titolo='O Pioneers!', annoDiPubblicazione=2013, numeroPagine=12
+, 
+Periodicita=SEMESTRALE, ISBN=5885, titolo='What's Become of Waring', annoDiPubblicazione=2021, numeroPagine=48
+, 
+Periodicita=SETTIMANALE, ISBN=15659, titolo='Infinite Jest', annoDiPubblicazione=2010, numeroPagine=42
+, 
+Periodicita=SETTIMANALE, ISBN=8689, titolo='Moab Is My Washpot', annoDiPubblicazione=2001, numeroPagine=48
+, 
+Periodicita=MENSILE, ISBN=3775, titolo='Noli Me Tangere', annoDiPubblicazione=2020, numeroPagine=50
+, 
+Periodicita=SEMESTRALE, ISBN=19197, titolo='An Evil Cradling', annoDiPubblicazione=2002, numeroPagine=15
+, 
+Periodicita=SEMESTRALE, ISBN=9681, titolo='O Jerusalem!', annoDiPubblicazione=2014, numeroPagine=22
+, 
+Periodicita=MENSILE, ISBN=19295, titolo='What's Become of Waring', annoDiPubblicazione=2010, numeroPagine=97
+, 
+Periodicita=SETTIMANALE, ISBN=11515, titolo='Carrion Comfort', annoDiPubblicazione=2001, numeroPagine=5
+, 
+Periodicita=SEMESTRALE, ISBN=4275, titolo='East of Eden', annoDiPubblicazione=2022, numeroPagine=32
+, 
+Periodicita=MENSILE, ISBN=15157, titolo='The Way Through the Woods', annoDiPubblicazione=2020, numeroPagine=20
+, 
+Periodicita=SEMESTRALE, ISBN=6562, titolo='Unweaving the Rainbow', annoDiPubblicazione=2010, numeroPagine=45
+, 
+Periodicita=SEMESTRALE, ISBN=15077, titolo='O Jerusalem!', annoDiPubblicazione=2010, numeroPagine=5
+, 
+Periodicita=SETTIMANALE, ISBN=750, titolo='The Moving Finger', annoDiPubblicazione=2023, numeroPagine=71
+, 
+Periodicita=SETTIMANALE, ISBN=5093, titolo='Where Angels Fear to Tread', annoDiPubblicazione=2009, numeroPagine=8
+, 
+Periodicita=SEMESTRALE, ISBN=4496, titolo='Antic Hay', annoDiPubblicazione=2007, numeroPagine=36
+, 
+Periodicita=SETTIMANALE, ISBN=4375, titolo='The Doors of Perception', annoDiPubblicazione=2015, numeroPagine=45
+, 
+Periodicita=MENSILE, ISBN=717, titolo='This Lime Tree Bower', annoDiPubblicazione=2004, numeroPagine=77
+, 
+Periodicita=SETTIMANALE, ISBN=12949, titolo='The Line of Beauty', annoDiPubblicazione=2005, numeroPagine=77
+, 
+Periodicita=SETTIMANALE, ISBN=4756, titolo='Dulce et Decorum Est', annoDiPubblicazione=2022, numeroPagine=55
+, 
+Periodicita=SETTIMANALE, ISBN=8769, titolo='Ego Dominus Tuus', annoDiPubblicazione=2014, numeroPagine=52
+, 
+Periodicita=SETTIMANALE, ISBN=5212, titolo='Dying of the Light', annoDiPubblicazione=2020, numeroPagine=32
+, 
+Periodicita=SETTIMANALE, ISBN=4129, titolo='Taming a Sea Horse', annoDiPubblicazione=2014, numeroPagine=3
+, 
+Periodicita=SEMESTRALE, ISBN=13930, titolo='To Your Scattered Bodies Go', annoDiPubblicazione=2015, numeroPagine=86
+, 
+Periodicita=SEMESTRALE, ISBN=6316, titolo='The Wealth of Nations', annoDiPubblicazione=2012, numeroPagine=74
+, 
+Periodicita=SETTIMANALE, ISBN=11397, titolo='The Millstone', annoDiPubblicazione=2004, numeroPagine=98
+, 
+Periodicita=MENSILE, ISBN=5193, titolo='All Passion Spent', annoDiPubblicazione=2010, numeroPagine=88
+, 
+Periodicita=MENSILE, ISBN=16257, titolo='In Death Ground', annoDiPubblicazione=2016, numeroPagine=71
+, 
+Periodicita=SEMESTRALE, ISBN=17675, titolo='The Lathe of Heaven', annoDiPubblicazione=2017, numeroPagine=34
+, 
+Periodicita=MENSILE, ISBN=4726, titolo='Cabbages and Kings', annoDiPubblicazione=2019, numeroPagine=50
+, 
+Periodicita=MENSILE, ISBN=4839, titolo='Waiting for the Barbarians', annoDiPubblicazione=2016, numeroPagine=29
+]
