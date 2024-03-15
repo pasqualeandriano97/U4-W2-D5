@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <chats>
+      <list>
+        <chat>
+          <accountId value="VXNlcjoyNzAwMDM=" />
+          <internalId value="1b4b47e4-2b81-4fc8-92af-09bcbdfddf1e" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyNzAwMDM=" />
+          <internalId value="6eec44b3-bdf3-4fa6-98b7-23affe02d133" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="italiano pls" />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" Certo, posso parlare in italiano. Come posso aiutarti?" />
+              </message>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="cambia la lingua dell'autocompilazione in titaliano" />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+                <text value=" Ecco alcuni suggerimenti per cambiare la lingua dell'autocompletamento in italiano:&#10;&#10;- Se stai usando un IDE come Visual Studio Code, puoi impostare la lingua predefinita su italiano dalle impostazioni. Cerca l'opzione &quot;locale&quot; o &quot;language&quot; e impostala su &quot;it&quot;.&#10;&#10;- In alcuni editor di codice puoi installare estensioni per l'italiano che forniscono il supporto per l'autocompletamento e la documentazione in italiano. Ad esempio, per VS Code ci sono estensioni come Italian Language Pack e Italian Comments.&#10;&#10;- Verifica se il tuo framework o libreria di programmazione supporta internazionalizzazione e localizzazione. Molti hanno file di lingua che puoi scaricare ed impostare per avere l'italiano.&#10;&#10;- Per linguaggi come Python, puoi installare custom tokenizer in italiano per avere parole chiave ed autocompletamento italianizzati.&#10;&#10;- In alternativa, puoi creare il tuo custom dizionario italiano di parole chiave, metodi, funzioni, etc e configurare il tuo editor per usarlo durante l'autocompletamento.&#10;&#10;Fammi sapere se hai bisogno di aiuto con una configurazione specifica per abilitare l'italiano nel tuo ambiente di sviluppo. Posso provare a fornirti istruzioni più dettagliate." />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-03-15T11:04:24.6366441" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyNzAwMDM=" />
+          <internalId value="0d3681de-c93a-41b2-80d7-8513c5c2f38a" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+      </list>
+    </chats>
+  </component>
+</project>
