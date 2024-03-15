@@ -28,4 +28,16 @@ public class Libri extends Catalogo {
                 ", numeroPagine=" + numeroPagine +
                 '}');
     }
+
+    @Override
+    public String toString() {
+        return
+                "\nAutore='" + autore + '\'' +
+                ", genere='" + genere + '\'' +
+                ", ISBN=" + ISBN +
+                ", titolo='" + titolo + '\'' +
+                ", annoDiPubblicazione=" + annoDiPubblicazione +
+                ", numeroPagine=" + numeroPagine +
+                '\n';
+    }
 }

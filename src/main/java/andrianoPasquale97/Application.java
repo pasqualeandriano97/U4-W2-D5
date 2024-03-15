@@ -4,7 +4,10 @@ import com.github.javafaker.Faker;
 import entities.Libri;
 import entities.Periodicita;
 import entities.Rivista;
+import org.apache.commons.io.FileUtils;
 
+import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.time.LocalDate;
 import java.util.*;
 import java.util.function.Supplier;
@@ -47,6 +50,8 @@ public class Application {
         for(int i=0;i< listRiviste.size();i++){
             listRiviste.get(i).dettagli();
         }
+
+
      Scanner scanner=new Scanner(System.in);
 
         cicloPadre:
@@ -125,6 +130,8 @@ public class Application {
             }
         }
 
-    }
+
+
+   }
 
 }

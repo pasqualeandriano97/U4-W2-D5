@@ -22,4 +22,15 @@ public class Rivista extends Catalogo {
                 ", numeroPagine=" + numeroPagine +
                 '}');
     }
+
+    @Override
+    public String toString() {
+        return
+                "\nPeriodicita=" + periodicita +
+                ", ISBN=" + ISBN +
+                ", titolo='" + titolo + '\'' +
+                ", annoDiPubblicazione=" + annoDiPubblicazione +
+                ", numeroPagine=" + numeroPagine +
+                '\n';
+    }
 }

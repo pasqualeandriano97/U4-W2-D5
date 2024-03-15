@@ -23,4 +23,14 @@ public abstract class Catalogo {
         this.numeroPagine = numeroPagine;
     }
     protected abstract void dettagli ();
+
+    @Override
+    public String toString() {
+        return
+                "\nISBN=" + ISBN +
+                ", titolo='" + titolo + '\'' +
+                ", annoDiPubblicazione=" + annoDiPubblicazione +
+                ", numeroPagine=" + numeroPagine +
+                '\n';
+    }
 }
